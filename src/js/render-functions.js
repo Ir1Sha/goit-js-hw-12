@@ -16,5 +16,3 @@ export function renderImages(images) {
         </div>
     `).join('');
 }
-
-
